@@ -1,29 +1,22 @@
 Dessert Clicker app
 =====================
 
-Code for Android Basics with Compose Codelab.
-
 Introduction
 ------------
 
-Dessert Clicker is a game about making desserts.
+Dessert Clicker is a game about making and selling desserts.
 
-Press the button, make a dessert, earn the big bucks.
+User can press the image of desserts to make a dessert. Then, user also sells the dessert to earn the big bucks.
 
-You use this app in the course to explore the Android lifecycle and log messages to
-the Android console (Logcat).
+What To Learn From This App
+---------------------------
+- What is Activity Lifecycle? How does Lifecycle process?
+- How to deal with configuration changes to prevent the data getting lost by using rememberSaveable method
+- How to use Log class
+- What is Lifecycle of Composable Functions?
+- The logic of Composition and Recomposition processes
 
-Pre-requisites
---------------
+Image
+------
 
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- What an activity is, and how to create one in your app.
-- What the activity's onCreate() method does, and the kind of operations
-  that are performed in that method.
-
-
-Getting Started
----------------
-
-1. Download and run the app.
+![Android Party](app/src/main/res/drawable/dessert_app.png)
