@@ -20,3 +20,8 @@ Image
 ------
 
 ![Android Party](app/src/main/res/drawable/dessert_app.png)
+
+Update
+-------
+
+Ui State and Viewmodel have been added into the application for more clear code and better architecture
